@@ -55,7 +55,7 @@ const isValid = (s) => {
     if (place.length === 0) {
         return true;
     }
-    //配列じゃなかったらダメ
+    //空配列じゃなかったらダメ
     else {
         return false;
     }
