@@ -1,6 +1,6 @@
 # プログラミング課題（括弧の対応判定）
 # 使用言語
-- javaScript(Webフロントエンドコース：TypeScript(JavaScript))
+- javaScript
 
 ## 課題内容
 
